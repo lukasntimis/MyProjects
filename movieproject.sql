@@ -1,4 +1,6 @@
-/* Analysis 1000 movies from IMDB */
+/* Analysis 1000 movies from IMDB 
+
+*/
 
 
 -- Selecting all data from the table
